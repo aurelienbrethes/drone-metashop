@@ -1,0 +1,10 @@
+{
+    "en": {
+        "unknown_error": "Sorry something went wrong.",
+        "payment_error": "Sorry something went wrong during the payment."
+    },
+    "fr": {
+        "unknown_error": "Désolé, une erreur s'est produite",
+        "payment_error": "Désolé, une erreur s'est produite pendant le paiement"
+    }
+}

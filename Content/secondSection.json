@@ -1,0 +1,38 @@
+{
+    "en": {
+        "title": "Why choose our drone ?",
+        "description": "Upgrade the intelligent flight aerial photography system. You can fly and control well.",
+        "textIcon1" : "One-click take-off and landing",
+        "textIcon2" : "25 min long battery life",
+        "textIcon3" : "Beautiful shots",
+        "textIcon4" : "4K pixels/dual lens",
+        "textIcon5" : "Flying around",
+        "textIcon6" : "Smart follow",
+        "textIcon7" : "5G image transmission",
+        "textIcon8" : "Optical flow positioning",
+        "textIcon9" : "Gesture photo",
+        "textIcon10" : "GPS positioning",
+        "textIcon11" : "App control",
+        "textIcon12" : "Multi function return home",
+        "textIcon13" : "Headless mode",
+        "textIcon14" : "About 2000 meters flying"
+    },
+    "fr": {
+        "title": "Pourquoi choisir notre drone ?",
+        "description": "Améliorez le système de photographie aérienne intelligent. Vous pouvez voler et contrôler à votre guise.",
+        "textIcon1" : "Décollage et atterrissage en un clic",
+        "textIcon2" : "Batterie jusqu'à 25 min",
+        "textIcon3" : "Superbes clichés",
+        "textIcon4" : "Lentille 4K pixels/dual",
+        "textIcon5" : "Demi-tour instantanné",
+        "textIcon6" : "Repérage intelligent",
+        "textIcon7" : "Transmission image 5G",
+        "textIcon8" : "Position optique optimale",
+        "textIcon9" : "Photographie le mouvement",
+        "textIcon10" : "Position GPS",
+        "textIcon11" : "Contrôle par application",
+        "textIcon12" : "Retour intelligent",
+        "textIcon13" : "Mode libre",
+        "textIcon14" : "Jusqu'à 2000m d'altitude"
+    }
+}

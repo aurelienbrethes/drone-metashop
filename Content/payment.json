@@ -1,0 +1,12 @@
+{
+    "en": {
+        "connectMetamask": "Please connect a Metamask account",
+        "awaitingPaymentInformations": "Awaiting payment informations",
+        "payWithMetamask": "Pay with Metamask"
+    },
+    "fr": {
+        "connectMetamask": "Veuillez connecter un compte Metamask",
+        "awaitingPaymentInformations": "En attente des informations de paiement",
+        "payWithMetamask": "Payer avec Metamask"
+    }
+}

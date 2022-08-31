@@ -1,0 +1,18 @@
+{
+    "en": {
+        "description1": "Welcome in our new Metashop solution",
+        "description2": "Thanks to our payment platform, use your Cryptos to buy our products",
+        "expedition": "Expedition in France €(EURO)",
+        "copyright": "© Digital Copilote, Ltd.",
+        "partners": "Ours partners",
+        "community": "Join our community"
+    },
+    "fr": {
+        "description1": "Bienvenue sur notre nouvelle solution Metashop",
+        "description2": "Grâce à notre plateforme de paiement, utilisez vos Cryptos pour acheter nos produits",
+        "expedition": "Expédition en France €(EURO)",
+        "copyright": "© Digital Copilote, Ltd.",
+        "partners": "Nos partenaires",
+        "community": "Rejoignez notre communauté"
+    }
+}

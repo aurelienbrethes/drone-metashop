@@ -1,0 +1,20 @@
+{
+    "en": {
+        "colorTitle": "Color",
+        "colorGroupLabel": "Choose a color",
+        "sizeTitle": "Size",
+        "sizeGroupLabel": "Choose a size",
+        "buttonAddToCartLabel": "Add to bag",
+        "outOfStock": "Out of stock",
+        "productUnavalaible": "Product unavailable"
+    },
+    "fr": {
+        "colorTitle": "Couleur",
+        "colorGroupLabel": "Choisir une couleur",
+        "sizeTitle": "Taille",
+        "sizeGroupLabel": "Choisir une taille",
+        "buttonAddToCartLabel": "Ajouter au panier",
+        "outOfStock": "Rupture de stock",
+        "productUnavalaible": "Produit indisponible"
+    }
+}

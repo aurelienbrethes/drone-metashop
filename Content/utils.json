@@ -1,0 +1,22 @@
+{   
+    "en": {
+        "usePrices": {
+            "noPrice": "No price provided",
+            "noTax": "No tax provided"
+        },
+        "useApprovalState": {
+            "error": "No Request datas or no payment currency provided",
+            "success": "Success checking allowance"
+        }
+    },
+    "fr": {
+        "usePrices": {
+            "noPrice": "Aucun prix renseigné",
+            "noTax": "Aucune taxe renseignée"
+        },
+        "useApprovalState": {
+            "error": "Aucune donnée reçu ou aucun moyen de paiement renseigné",
+            "success": "Autorisation validée avec succès"
+        }
+    }
+}

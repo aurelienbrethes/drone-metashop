@@ -1,0 +1,11 @@
+{
+    "en": {
+        "searchPlaceholder": "Search",
+        "searchToken": "Search name, symbol, contract address..."
+    },
+
+    "fr": {
+        "searchPlaceholder": "Chercher",
+        "searchToken": "Chercher un nom, symbole, adresse de contrat..."
+    }
+}

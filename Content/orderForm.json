@@ -1,0 +1,36 @@
+{
+    "en": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email",
+        "countryName": "Country",
+        "streetAddress": "Address",
+        "locality": "City",
+        "state": "State / District",
+        "postalCode": "Postal Code",
+        "submit": "Place my order",
+        "continueShopping": "Continue shopping →",
+        "created": "Order created",
+        "legal-approvement": "Yes, I have read and I accept yours",
+        "terms-conditions": "terms and conditions",
+        "privacy-policy": "privacy policy",
+        "prefix-privacy-policy": " and your "
+    },
+    "fr": {
+        "firstName": "Prénom",
+        "lastName": "Nom",
+        "email": "Email",
+        "countryName": "Pays",
+        "streetAddress": "Adresse",
+        "locality": "Ville",
+        "state": "Région / Département",
+        "postalCode": "Code postal",
+        "submit": "Passer ma commande",
+        "continueShopping": "Continuer mes achats →",
+        "created": "Commande créée",
+        "legal-approvement": "Oui, j'ai bien lu et j'accepte vos",
+        "terms-conditions": "conditions générale de vente",
+        "privacy-policy": "politique de confidentialité",
+        "prefix-privacy-policy": " ainsi que votre "
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "en": {
+        "home": "HOME",
+        "title": "HOODIES",
+        "description": "Represent the crypto that looks like you by buying your favorite goodies.",
+        "noProducts": "No product available"
+    },
+    "fr": {
+        "home": "ACCUEIL",
+        "title": "Sweats à capuche",
+        "description": "Représente la Crypto qui te ressemble en achetant tes goodies préférés",
+        "noProducts": "Aucun produit disponible"
+    }
+}

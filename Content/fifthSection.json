@@ -1,0 +1,22 @@
+{
+    "en": {
+        "textdesc1": "Aerial pixels 6K dual camera",
+        "textdesc2": "Expand Size: 34x34x8",
+        "textdesc3": "Battery life about 25 minutes",
+        "textdesc4": "Image transmission signal 5G Wifi",
+        "textdesc5": "Body battery Modular lithium battery",
+        "textdesc6": "Remote controle distance About 2000 meters",
+        "textdesc7": "Folded size : 15x10x8cm",
+        "textdesc8": "Flight system GPS + optical flow positioning"
+    },
+    "fr": {
+        "textdesc1": "6K double caméra",
+        "textdesc2": "Taille déplié : 34x34x8",
+        "textdesc3": "Autonomie de la batterie environ 25 minutes",
+        "textdesc4": "Image transmission signal 5G Wifi",
+        "textdesc5": "Batterie au lithium",
+        "textdesc6": "Distance de contrôle à distance Environ 2000 mètres",
+        "textdesc7": "Taille plié: 15x10x8cm",
+        "textdesc8": "Système GPS "
+    }
+}

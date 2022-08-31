@@ -1,0 +1,42 @@
+{
+    "en": {
+        "title": "Orders History",
+        "checkoutButton": "Checkout my ",
+        "pendingInvoicesToast": "Pending Orders",
+        "invoiceitemCard": {
+            "error": "Error getting this product",
+            "quantity": "Quantity"
+        },
+        "invoiceCard": {
+            "products": "Products",
+            "status": "Status",
+            "price": "Price"
+        },
+        "noInvoiceSelected": "No invoice selected",
+        "cancelSuccessfull": "Invoice canceled successfully",
+        "removeSuccessfull": "Invoice removed successfully",
+        "deleteInvoiceButton": "Delete",
+        "requestIndication": "Log in using the same email address as on the order form",
+        "viewInvoice": "View my Invoice"
+    },
+    "fr": {
+        "title": "Historique des commandes",
+        "checkoutButton": "Commander ",
+        "pendingInvoicesToast": "Commande en cours",
+        "invoiceitemCard": {
+            "error": "Erreur lors de l'ajout de ce produit",
+            "quantity": "Quantité"
+        },
+        "invoiceCard": {
+            "products": "Produits",
+            "status": "état",
+            "price": "Prix"
+        },
+        "noInvoiceSelected": "Aucune commande sélectionnée",
+        "cancelSuccessfull": "Commande annulée avec succès",
+        "removeSuccessfull": "Commande supprimée avec succès",
+        "deleteInvoiceButton": "Supprimer",
+        "requestIndication": "Se connecter avec la même adresse mail que le formulaire de commande",
+        "viewInvoice": "Voir ma facture"
+    }
+}

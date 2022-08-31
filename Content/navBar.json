@@ -1,0 +1,18 @@
+{
+    "en": {
+        "labelHome": "Home",
+        "labelImages": "Images",
+        "labelCharacteristics": "Characteristics",
+        "labelContact": "Contact",
+        "buyButton": "BUY THIS DRONE",
+        "openButton": "OPEN THE CART"
+    },
+    "fr": {
+        "labelHome": "Accueil",
+        "labelImages": "Images",
+        "labelCharacteristics": "Caractéristiques",
+        "labelContact": "Contact",
+        "buyButton": "ACHETER CE DRONE",
+        "openButton": "OUVRIR LE PANIER"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "lib": ["dom", "dom.iterable", "esnext"],
+        "allowJs": true,
+        "skipLibCheck": true,
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "noEmit": true,
+        "esModuleInterop": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "jsx": "preserve",
+        "incremental": true,
+        "baseUrl": "./",
+        "paths": {
+            "@components/*": ["src/components/*"],
+            "@public/*": ["public/*"],
+            "@public": ["public"],
+            "@styles/*": ["src/styles/*"],
+            "@styles": ["src/styles"],
+            "@redux/*": ["src/redux/*"],
+            "@Content/*": ["./Content/*"],
+            "@products/*": ["src/data/products/*"],
+            "@utils/*": ["src/utils/*"],
+            "@fetcher/*": ["src/fetcher/*"],
+            "@src/*": ["src/*"],
+            "@constants/*": ["src/constants/*"],
+            "@interfaces/*": ["src/interfaces/*"],
+            "@hoodies/*": ["src/data/products/categories/clothing/hoodies/*"],
+            "@categories/*": ["src/data/products/categories/*"],
+            "@clothing/*": ["src/data/products/categories/clothing/*"],
+            "@middlewares/*": ["src/middlewares/*"],
+            "@hooks/*": ["src/hooks/*"]
+        }
+    },
+    "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+    "exclude": ["node_modules"]
+}

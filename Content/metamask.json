@@ -1,0 +1,42 @@
+{
+    "en": {
+        "unavailable": "MetaMask is not available 😞",
+        "connecting": "Connecting ...",
+        "pay": {
+            "prev": "Pay",
+            "next": "With Metamask"
+        },
+        "approve": "Approve",
+        "checkingApprovance": "Checking Approvance ...",
+        "connect": "Connect to Metamask",
+        "connected": "Connected",
+        "toast": {
+            "approve": "Approving transaction ...",
+            "approveSuccess": "Approved transaction 🎉",
+            "approveError": "Approving transaction failed 😞",
+            "paymentSucces": "Payment sent 🎉",
+            "paymentError": "Payment failed 😞"
+        },
+        "synchronisation": "Synchronisation with MetaMask ongoing..."
+    },
+    "fr": {
+        "unavailable": "MetaMask n'est pas disponible 😞",
+        "connecting": "Connexion ...",
+        "pay": {
+            "prev": "Payer",
+            "next": "Avec Metamask"
+        },
+        "approve": "Approuver",
+        "checkingApprovance": "Vérification ...",
+        "connect": "Connexion à Metamask",
+        "connected": "Connecté",
+        "toast": {
+            "approve": "Transaction en attente de validation ...",
+            "approveSuccess": "Transaction validée ! 🎉",
+            "approveError": "Echec de la validation de transaction 😞",
+            "paymentSucces": "Paiement envoyé 🎉",
+            "paymentError": "Echec du paiement 😞"
+        },
+        "synchronisation": "Synchronisation avec MetaMask en cours..."
+    }
+}

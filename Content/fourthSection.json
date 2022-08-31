@@ -1,0 +1,30 @@
+{
+    "en": {
+        "title": "Characteristics",
+        "textCharac1": "Fine adjustment (long press) / Speed gear",
+        "textCharac2": "Photo / Video (long press)",
+        "textCharac3": "Throttle lever",
+        "textCharac4": "Steering rod",
+        "textCharac5": "Switch",
+        "textCharac6": "GPS (long press)",
+        "textCharac7": "Geomagnetic calibration",
+        "textCharac8": "Headless mode",
+        "textCharac9": "One-click take-off and landing",
+        "textCharac10": "One key return",
+        "textCharac11": "Indicator light description"
+    },
+    "fr": {
+        "title": "Caractéristiques",
+        "textCharac1": "Ajustement (appuyer longtemps) / Réglage vitesse",
+        "textCharac2": "Photo / Vidéo (appuyer longtemps)",
+        "textCharac3": "Accélération",
+        "textCharac4": "Direction",
+        "textCharac5": "Alternance",
+        "textCharac6": "GPS (appuyer longtemps)",
+        "textCharac7": "Calibrage géomagnétique",
+        "textCharac8": "Mode libre",
+        "textCharac9": "Décollage et atterrissage en un clic",
+        "textCharac10": "Retour",
+        "textCharac11": "Indicateurs lumineux"
+    }
+}

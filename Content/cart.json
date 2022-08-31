@@ -1,0 +1,20 @@
+{
+    "en": {
+        "title": "Shopping cart",
+        "continueShopping": "Continue shopping",
+        "checkout": "Checkout",
+        "noItem": "No item in cart",
+        "color": "Color",
+        "size": "Size",
+        "quantity": "Qty"
+    },
+    "fr": {
+        "title": "Panier",
+        "continueShopping": "Continuer mes achats",
+        "checkout": "Passer la commande",
+        "noItem": "Panier vide",
+        "color": "Couleur",
+        "size": "Taille",
+        "quantity": "Qté"
+    }
+}

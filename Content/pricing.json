@@ -1,0 +1,12 @@
+{
+    "en": {
+        "preTaxPrice": "Price Excluding Taxes",
+        "taxesIncludedPrice": "Total Price",
+        "tax": "VAT"
+    },
+    "fr": {
+        "preTaxPrice": "Prix Hors Taxes",
+        "taxesIncludedPrice": "Prix TTC",
+        "tax": "TVA"
+    }
+}

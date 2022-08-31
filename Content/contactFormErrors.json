@@ -1,0 +1,20 @@
+{
+    "en": {
+        "fullnameRequired": "Fullname is required",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Email is invalid",
+        "phoneRequired": "Phone is required",
+        "phoneInvalid": "Please enter a valid phone number (ex: 06XXXXXXXX)",
+        "messageRequired": "Enter your message",
+        "messageInvalid": "10 characters min"
+    },
+    "fr": {
+        "fullnameRequired": "Nom, prénom requis",
+        "emailRequired": "Email requis",
+        "emailInvalid": "Email invalide",
+        "phoneRequired": "Téléphone requis",
+        "phoneInvalid": "Entrez un numéro de téléphone valide (ex: 06XXXXXXXX)",
+        "messageRequired": "Ecrivez votre message",
+        "messageInvalid": "10 caractères min"
+        }
+    }

@@ -1,0 +1,14 @@
+{
+    "en": {
+        "subject": "Spendcoin Order Confirmation",
+        "startGreetings": "Dear",
+        "endGreetings": "Thank you for your order.",
+        "message": "Below you can find your order reference, please keet ip preciously to retrieve your invoicing informations, later on."
+    },
+    "fr": {
+        "subject": "Confirmation de commande Spendcoin ",
+        "startGreetings": "",
+        "endGreetings": "Merci pour votre commande.",
+        "message": "Vous trouverez votre référence de commande ci dessous, gardez la précieusement afin de récupérer les détails de celle-ci."
+    }
+}

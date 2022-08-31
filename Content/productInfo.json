@@ -1,0 +1,20 @@
+{
+    "en": {
+        "productTitle": "Product information",
+        "descTitle": "Description",
+        "quantityTitle": "Quantity",
+        "quantityInStockTitle": "Quantity in stock",
+        "quantityInStock": "available in stock",
+        "quantityOutOfStock": "This product is temporarily unavailable",
+        "noProduct": "No product"
+    },
+    "fr": {
+        "productTitle": "Informations du produit",
+        "descTitle": "Description",
+        "quantityTitle": "Quantité",
+        "quantityInStockTitle": "Quantité en stock",
+        "quantityInStock": "disponible en stock",
+        "quantityOutOfStock": "Ce produit est momentanément en rupture de stock",
+        "noProduct": "Pas de produit"
+    }
+}

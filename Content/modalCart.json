@@ -1,0 +1,10 @@
+{
+    "en": {
+        "backButton": "Back to shop",
+        "payButton": "PAY WITH YOUR METAMASK"
+    },
+    "fr": {
+        "backButton": "Retour à la boutique",
+        "payButton": "PAYER AVEC METAMASK"
+    }
+}

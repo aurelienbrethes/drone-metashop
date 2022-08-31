@@ -1,0 +1,22 @@
+{
+    "en": {
+        "firstname": "must be an alpha value at least 2 chars long",
+        "lastname": "must be an alpha value at least 2 chars long",
+        "email": "must a valid email addresse with format xxx@xxx.xx",
+        "countryName": "this field is required",
+        "streetAddress": "this field is required",
+        "locality": "this field is required",
+        "state": "this field is required",
+        "postalCode": "must be a valid postal code (example 75000)"
+    },
+    "fr": {
+        "firstname": "valeur alphanumérique contenant au moins 2 caractères",
+        "lastname": "valeur alphanumérique contenant au moins 2 caractères",
+        "email": "email valide de type xxx@xxx.xx",
+        "countryName": "ce champ est requis",
+        "streetAddress": "ce champ est requis",
+        "locality": "ce champ est requis",
+        "state": "ce champ est requis",
+        "postalCode": "code postal valide (example 75000)"
+    }
+}
